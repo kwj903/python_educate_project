@@ -1,4 +1,4 @@
-# 변수와 자료형 연습문제
+# 1단계: 변수와 자료형 완전 정복 연습문제
 
 # 연습문제 1
 name = "Python"
@@ -20,4 +20,3 @@ print(type(num1))
 sum = num1 + num2
 print(sum)
 print(type(sum))
-

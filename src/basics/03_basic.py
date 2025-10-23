@@ -1,4 +1,4 @@
-# for while 반복문 연습문제
+# 3단계: 반복문 완전 마스터 (while, for) 연습문제
 
 # 연습문제1
 i = 0
@@ -17,4 +17,3 @@ for char in str :
 for j in range(1, 101, 3) :
   if j % 2 == 0 :
     print(j)
-

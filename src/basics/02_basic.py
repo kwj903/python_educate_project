@@ -1,11 +1,11 @@
 from random import randint
-# 조건문과 논리 연습문제
+# 2단계: 조건문과 논리 (if, elif, else) 연습문제
 
 # 연습문제1
 x = 15
 if x > 10 and x < 20 :
   print("10보다 크고 20보다 작다")
-  
+
 # 연습문제2
 score = randint(0, 100)
 if score >= 90 :
